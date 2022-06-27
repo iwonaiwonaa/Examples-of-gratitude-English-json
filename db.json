@@ -1,0 +1,79 @@
+{
+  "gratitude": [
+    {
+      "id": 1,
+      "contents": "Life is a priceless gift you have received and you should be grateful for it.",
+      "name": "Your Life"
+    },
+    {
+      "id": 2,
+      "contents": "Every day when your health is good is precious. Appreciate your body, your fitness. Many people start to think about the value of health only when they lose it and get sick.",
+      "name": "Good health"
+    },
+    {
+      "id": 3,
+      "contents": "If you have people in your life who you can call your friends, this is very valuable.",
+      "name": "Friends"
+    },
+    {
+      "id": 4,
+      "contents": "If you have a place to live and you have a place to call your home, appreciate that you are not homeless.",
+      "name": "A roof over the head"
+    },
+    {
+      "id": 5,
+      "contents": "The opportunity to learn, go to school or college, develop your intellect is something worth being grateful for.",
+      "name": "Possibility of education"
+    },
+    {
+      "id": 6,
+      "contents": "The ability to smile and be happy makes us feel good. A world without a smile would be a sad and gloomy place.",
+      "name": "Joy and smile"
+    },
+    {
+      "id": 7,
+      "contents": "Cars, airplanes, coaches, etc. make it possible for us to move quickly over long distances and explore previously unknown parts of the world.",
+      "name": "Means of transport"
+    },
+    {
+      "id": 8,
+      "contents": "Having access to clean water that you can drink when you are thirsty is also something to be grateful for. Contrary to appearances, on a global scale, having running water in the tap is a luxury.",
+      "name": "Clean water"
+    },
+    {
+      "id": 9,
+      "contents": "Many people lack money, we want more to buy things and fulfill our desires. However, the fact that you have any money at all and you don't have to beg on the street to experience something for which you can also be thankful.",
+      "name": "Money"
+    },
+    {
+      "id": 10,
+      "contents": "Even if you are not entirely satisfied with your current job, employment means that someone thinks you are unique enough to hire you. Work also gives you financial resources to live on.",
+      "name": "Work"
+    },
+    {
+      "id": 11,
+      "contents": "Music is emotions. Music beautifies our lives, a world without music would be incomplete.",
+      "name": "Music"
+    },
+    {
+      "id": 12,
+      "contents": "If you have someone to love and you are loved yourself, this is something wonderful. Be thankful for love and its positive impact on your life.",
+      "name": "Love"
+    },
+    {
+      "id": 13,
+      "contents": "Relationships with your parents are not always good, but it is worth remembering that they gave you life and thanks to them you are in this world.",
+      "name": "Parents"
+    },
+    {
+      "id": 14,
+      "contents": "As with parents, relationships with family, relatives, and siblings vary. However, we can often find support in our brother or sister and other members of our family. If this is the case, it is worth appreciating this fact and being grateful for it.",
+      "name": "Family and siblings"
+    },
+    {
+      "id": 15,
+      "contents": "Be thankful for the strength and courage that keeps you going through life. For being able to face your problems and overcome your sorrows, pursue your goals and make your dreams come true.",
+      "name": "Strength and courage"
+    }
+  ]
+}
